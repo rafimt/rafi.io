@@ -6,7 +6,7 @@ permalink: /publication/2019-modal-choice-commuters
 excerpt: 'This study investigates factors affecting transportation mode choice and commuter satisfaction in Rajshahi City, Bangladesh, focusing on suburban commuters and their travel behavior patterns.'
 date: 2019-01-01
 venue: 'Trends in Civil Engineering and its Architecture, Lupine Publishers'
-paperurl: 'http://rafimt.github.io/rafi.io/files/TCEIA.MS.ID.000171.pdf
+# paperurl: 'http://rafimt.github.io/rafi.io/files/TCEIA.MS.ID.000171.pdf
 citation: 'Tumon, R.M. et al. (2019). "Identification of Determinant Factors Influencing Modal Choice Behavior and Satisfaction Level of Commuters." <i>Trends in Civil Engineering and its Architecture</i>. 3(4).'
 ---
 
