@@ -266,7 +266,7 @@ defaults:
       type: publications
     values:
       layout: #single
-      author_profile: 
+      author_profile: true
       share: 
       comments: 
   # _portfolio
