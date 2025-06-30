@@ -1,19 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi there, I'm Rafi Mahmud Tumon! 👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Hi there, I'm Rafi Mahmud Tumon! 👋
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Geospatial+Data+Scientist;GIS+%26+Remote+Sensing+Specialist;Master's+Student+at+TU+Berlin)](https://git.io/typing-svg)
-
-</div>
 
 ## 🎯 About Me
 
@@ -67,17 +60,6 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafimt&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafimt&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafimt&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
@@ -109,17 +91,11 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 - **Urban Planning Intern** - Urban Development Directorate, Bangladesh
 
 ---
+# 🎯 Current Learning & Goals
 
-## 🎯 Current Learning & Goals
-
-```python
-current_focus = {
-    "academic": ["Deep Learning for Geographical Data", "Photogrammetric Computer Vision"],
-    "professional": ["Infrastructure Planning Optimization", "Automated Geospatial Workflows"],
-    "technology": ["Graph Neural Networks", "Vision Transformers", "Advanced QGIS Automation"],
-    "languages": ["German (Basic → Intermediate)", "Advanced Python Libraries"]
-}
-```
+- **Academic**: Deep Learning for Geographical Data, Photogrammetric Computer Vision
+- **Professional**: Infrastructure Planning Optimization, Automated Geospatial Workflows
+- **Technology**: Graph Neural Networks, Vision Transformers, Advanced QGIS Automation
 
 ---
 
@@ -132,22 +108,5 @@ current_focus = {
 
 ---
 
-## 🌐 Let's Connect!
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafi-mahmud-81171a14b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmtumon@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafimt)
-
-</div>
-
----
-
-<div align="center">
-
-**Languages:** 🇺🇸 English (Fluent) | 🇧🇩 Bengali (Native) | 🇩🇪 German (Basic)
-
-![Profile Views](https://komarev.com/ghpvc/?username=rafimt&color=blue&style=flat-square)
-
-</div>
+**Languages:** 🇺🇸 English (Fluent) | 🇧🇩 Bengali (Native) | 🇩🇪 German (A2)
