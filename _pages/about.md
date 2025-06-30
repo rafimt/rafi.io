@@ -1,13 +1,14 @@
 ---
 permalink: /
 title: "Hi there, I'm Rafi Mahmud Tumon! 👋"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## 🎯 About Me
+
 
 I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoinformation Science** at Technical University Berlin, with a passion for leveraging spatial analysis and machine learning to solve real-world problems. Currently working as a Strategic Area Development specialist at OXG Glasfaser GmbH, where I optimize fiber network deployment through advanced GIS analysis and Python automation.
 
