@@ -10,7 +10,7 @@ paperurl: 'https://lupinepublishers.com/civil-engineering-journal/fulltext/ident
 citation: 'Tumon, R.M. et al. (2019). "Identification of Determinant Factors Influencing Modal Choice Behavior and Satisfaction Level of Commuters." <i>Trends in Civil Engineering and its Architecture</i>. 3(4).'
 ---
 
-This study investigates the **factors affecting transportation mode choice and commuter satisfaction** in Rajshahi City, Bangladesh—particularly focusing on suburban commuters traveling into the city. Using a questionnaire survey and analyzing responses through Excel and SPSS, the research identifies key **socioeconomic and travel-related variables** that influence commuter behavior.
+This study investigates the **factors affecting transportation mode choice and commuter satisfaction** in Rajshahi City, Bangladesh particularly focusing on suburban commuters traveling into the city. Using a questionnaire survey and analyzing responses through Excel and SPSS, the research identifies key **socioeconomic and travel-related variables** that influence commuter behavior.
 
 ## Key Findings:
 * **Income, age, travel time, and distance** are the most influential factors affecting mode choice.
