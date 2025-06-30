@@ -26,6 +26,8 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C5282?style=for-the-badge&logo=esri&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
 
+**QGIS Expertise:** Data Management, Coordinate Reference Systems, Map Creation and Cartography, Spatial Joins and Relationships, Plugin Usage, Database Connectivity, Processing Modeler, Python Scripting and Workflow Automation
+
 ### **Programming & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,6 +45,8 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**ML/DL Specialization:** Supervised and Unsupervised Learning, Neural Network Fundamentals, Model Evaluation and Validation, Classification and Object Detection, CNN, Vision Transformer, Graph Neural Network
 
 ### **Web Development & Visualization**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -84,10 +88,10 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 
 ---
 
-## 🎯 Current Learning & Goals
+### 🎯 Current Learning & Goals
 
-- **Academic**: Deep Learning for Geographical Data, Photogrammetric Computer Vision
-- **Professional**: Infrastructure Planning Optimization, Automated Geospatial Workflows
-- **Technology**: Graph Neural Networks, Vision Transformers, Advanced QGIS Automation
-
----
+- **WebGIS Development**: Interactive web-based geospatial applications and mapping solutions
+- **Vision Transformers**: Advanced computer vision techniques for geospatial data analysis
+- **Database Management**: Optimization and administration of spatial databases
+- **Workflow Automation**: Developing scripts to streamline geospatial processes
+- **JavaScript**: Frontend development for interactive mapping and data visualization
