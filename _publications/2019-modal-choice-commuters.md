@@ -27,3 +27,5 @@ The results offer guidance for **transportation planners and policymakers**: enh
 - **Analysis Tools**: Excel and SPSS for statistical analysis
 - **Evaluation Method**: Likert-scale assessment across 22 satisfaction factors
 - **Study Area**: Rajshahi City, Bangladesh
+
+[Download Paper](https://lupinepublishers.com/civil-engineering-journal/pdf/TCEIA.MS.ID.000171.pdf)
