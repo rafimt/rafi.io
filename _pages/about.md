@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-
 ## 🎯 About Me
 
 I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoinformation Science** at Technical University Berlin, with a passion for leveraging spatial analysis and machine learning to solve real-world problems. Currently working as a Strategic Area Development specialist at OXG Glasfaser GmbH, where I optimize fiber network deployment through advanced GIS analysis and Python automation.
 
 - 🌍 **Expertise**: GIS, Remote Sensing, Spatial Analysis, Python Programming
-- 🔭 **Current Focus**: Deep Learning for Geographical Data, Infrastructure Planning
-- 📍 **Location**: Berlin, Germany
+- 🔭 **Current Focus**: Geographical Data Science
 - 🎓 **Education**: MS Geodesy & Geoinformation Science (TU Berlin), BS Urban & Regional Planning (RUET)
 - 💼 **Industry Experience**: Telecommunications Infrastructure, Urban Planning, Transportation Analysis
 
@@ -23,7 +21,7 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 ## 🛠️ Tech Stack & Skills
 
 ### **Core Geospatial Technologies**
-![QGIS](https://img.shields.io/badge/QGIS-3.22+-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-3.34-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C5282?style=for-the-badge&logo=esri&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
@@ -60,20 +58,15 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 
 ---
 
-
----
-
 ## 🔬 Research & Publications
 
 ### **Recent Research**
 - **"Application of Remote Sensing and GIS for Vulnerability Assessment"** - *Bachelor's Thesis*
-  - Analyzed flooding risks using satellite imagery and advanced spatial analysis
-  - Developed methodologies for land coverage change detection
+  - Analyzed flood vulnerability using satellite imagery and advanced spatial analysis
 
 ### **Publications**
 - **"Identification of Determinant Factors Influencing Modal Choice Behavior and Satisfaction Level of Commuters"**
   - *Trends in Civil Engineering and its Architecture, Lupine Publishers*
-  - DOI: 10.32474/TCEIA.2019.03.000171
 
 ---
 
@@ -82,31 +75,19 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 ### **Current Role: Strategic Area Development** 
 **OXG Glasfaser GmbH** | *June 2024 - Present*
 - 🗺️ Performing comprehensive geographical data analysis using QGIS for optical fiber network deployment
-- 🐍 Developing automated Python models to optimize workflow efficiency
-- 📊 Executing strategic cost-benefit analyses for network expansion projects
-- 🎯 Conducting geospatial assessments to identify optimal deployment areas
+- 🐍 Developing automated Python models resulting in a 20% improvement in operational efficiency
+- 🎯 Conducting geospatial assessments and database quality assurance
 
 ### **Previous Experience**
 - **GIS and Geospatial Planner** - Department of Civil Engineering, RUET
 - **Urban Planning Intern** - Urban Development Directorate, Bangladesh
 
 ---
-# 🎯 Current Learning & Goals
+
+## 🎯 Current Learning & Goals
 
 - **Academic**: Deep Learning for Geographical Data, Photogrammetric Computer Vision
 - **Professional**: Infrastructure Planning Optimization, Automated Geospatial Workflows
 - **Technology**: Graph Neural Networks, Vision Transformers, Advanced QGIS Automation
 
 ---
-
-## 🏆 Achievements & Recognition
-
-- 🥉 **2nd Runner Up** - Planning and Design of Compact Township
-  - Inter-University Undergraduate Planning Students Competition, BUET
-- 🎓 **Master's Student** - Technical University Berlin (2020-Present)
-- 📚 **Published Researcher** - Transportation and Urban Planning
-
----
-
-
-**Languages:** 🇺🇸 English (Fluent) | 🇧🇩 Bengali (Native) | 🇩🇪 German (A2)
