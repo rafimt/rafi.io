@@ -70,7 +70,7 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 
 ### **Publications**
 - **"Identification of Determinant Factors Influencing Modal Choice Behavior and Satisfaction Level of Commuters"**
-  - *Trends in Civil Engineering and its Architecture, Lupine Publishers*
+  - Identified key factors driving commuter mode selection and evaluated user satisfaction with current transport options
 
 ---
 
@@ -88,7 +88,7 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 
 ---
 
-### 🎯 Current Learning & Goals
+## 🎯 Current Learning & Goals
 
 - **WebGIS Development**: Interactive web-based geospatial applications and mapping solutions
 - **Vision Transformers**: Advanced computer vision techniques for geospatial data analysis
