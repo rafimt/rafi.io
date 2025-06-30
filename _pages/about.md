@@ -1,6 +1,10 @@
+---
+permalink: /
 # Hi there, I'm Rafi Mahmud Tumon! 👋
 
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Geospatial+Data+Scientist;GIS+%26+Remote+Sensing+Specialist;Master's+Student+at+TU+Berlin)](https://git.io/typing-svg)
 
 </div>
 
