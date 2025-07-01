@@ -269,6 +269,16 @@ defaults:
       author_profile: true
       share: 
       comments: 
+
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: 
+      comments: 
   # _portfolio
   - scope:
       path: ""
