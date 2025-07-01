@@ -1,6 +1,6 @@
 ---
 title: "Identification of Determinant Factors Influencing Modal Choice Behavior and Satisfaction Level of Commuters"
-collection: publications
+collection: projects
 category: manuscripts
 permalink: /projects/projects1.md
 excerpt: 'This study investigates factors affecting transportation mode choice and commuter satisfaction in Rajshahi City, Bangladesh, focusing on suburban commuters and their travel behavior patterns.'
