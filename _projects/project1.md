@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+permalink: /projecrs/project1.md
 title: "Page not in menu"
 author_profile: true
 redirect_from: 
