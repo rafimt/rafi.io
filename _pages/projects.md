@@ -7,8 +7,6 @@ redirect_from:
   - /projects.html
 ---
 
-# My Projects Portfolio
-
 ## Data Science / Machine Learning
 
 ### Wildfire Analysis
