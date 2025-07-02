@@ -7,12 +7,15 @@ redirect_from:
   - /map.html
 ---
 
+---
+permalink: /maps/
+title: "Maps"
+author_profile: true
+---
+
 # Interactive Maps Portfolio
 
 ## 1. Land Surface Temperature Analysis
-<!-- <img src="/images/LST2024.png" title="Land Surface Temperature 2024" alt="LST 2024 Analysis" style="float: left; margin-right: 10px;" />
-![screenshot](/images/LST2024.png){: .align-right width="100px"} -->
-
 <a href="/rafi.io/images/LST2024.png" target="_blank">
   <img title="Land Surface Temperature 2024" alt="LST 2024 Analysis" src="/rafi.io/images/LST2024.png">
 </a>
@@ -20,83 +23,109 @@ redirect_from:
 **Analysis:** Urban heat island patterns and temperature variations across the study area.
 
 ## 2. NDVI Analysis
-<!-- <img title="NDVI Analysis 2024" alt="NDVI 2024" src="/rafi.io/images/2024_ndvi.png"> -->
-
-<a href="/rafi.io/images/2024_ndvi.png" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; margin-top: 10px;">
-  Open Interactive Map →
+<a href="/rafi.io/images/2024_ndvi.png" target="_blank">
+  <img title="NDVI Analysis 2024" alt="NDVI 2024" src="/rafi.io/images/2024_ndvi.png">
 </a>
 
 **Analysis:** Normalized Difference Vegetation Index showing vegetation health and density patterns.
 
 ## 3. NDBI Analysis
-<img title="NDBI Analysis 2024" alt="NDBI 2024" src="/images/2024_ndbi.png">
+<a href="/rafi.io/images/2024_ndbi.png" target="_blank">
+  <img title="NDBI Analysis 2024" alt="NDBI 2024" src="/rafi.io/images/2024_ndbi.png">
+</a>
 
 **Analysis:** Normalized Difference Built-up Index highlighting urban development and built-up areas.
 
 ## 4. Berlin Population Distribution
-<img title="Berlin Population Distribution" alt="Berlin Population" src="/images/berlin_population.png">
+<a href="/rafi.io/images/berlin_population.png" target="_blank">
+  <img title="Berlin Population Distribution" alt="Berlin Population" src="/rafi.io/images/berlin_population.png">
+</a>
 
 **Analysis:** Population density distribution across Berlin districts.
 
 ### Interactive Population Map
-<iframe src="/files/Berlin_Population_2022.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="/rafi.io/images/Berlin_Population_2022.html" width="100%" height="600" frameborder="0"></iframe>
 
 ## 5. Berlin Cycling Network Analysis
-<img title="Berlin Cycling Network Coverage" alt="Berlin Cycling Network" src="/images/Berlin_cycling_network_&_pop.png">
+<a href="/rafi.io/images/Berlin_cycling_network_&_pop.png" target="_blank">
+  <img title="Berlin Cycling Network Coverage" alt="Berlin Cycling Network" src="/rafi.io/images/Berlin_cycling_network_&_pop.png">
+</a>
 
 **Analysis:** Cycling infrastructure coverage and accessibility gaps in high population density areas.
 
 ## 6. Berlin Restaurant Distribution
-<img title="Berlin Restaurant Distribution" alt="Berlin Restaurants" src="/images/berlin_restaurants.png">
+<a href="/rafi.io/images/berlin_restaurants.png" target="_blank">
+  <img title="Berlin Restaurant Distribution" alt="Berlin Restaurants" src="/rafi.io/images/berlin_restaurants.png">
+</a>
 
 **Analysis:** Spatial distribution of restaurants across Berlin neighborhoods.
 
 ## 7. Continental Analysis
-<img title="Continental Boundaries" alt="Continents" src="/images/continents.png">
+<a href="/rafi.io/images/continents.png" target="_blank">
+  <img title="Continental Boundaries" alt="Continents" src="/rafi.io/images/continents.png">
+</a>
 
 **Analysis:** Global continental boundaries and geographical features.
 
 ## 8. Dot Density Visualization
-<img title="Dot Density Population Map" alt="Dot Density" src="/images/dotdensity1.png">
+<a href="/rafi.io/images/dotdensity1.png" target="_blank">
+  <img title="Dot Density Population Map" alt="Dot Density" src="/rafi.io/images/dotdensity1.png">
+</a>
 
 **Analysis:** Population distribution using dot density mapping technique.
 
 ## 9. Hospital Accessibility Analysis
-<img title="Hospital Coverage Analysis" alt="Hospital Coverage" src="/images/HOSPITAL2.png">
+<a href="/rafi.io/images/HOSPITAL2.png" target="_blank">
+  <img title="Hospital Coverage Analysis" alt="Hospital Coverage" src="/rafi.io/images/HOSPITAL2.png">
+</a>
 
 **Analysis:** Healthcare facility distribution and service area coverage.
 
 ## 10. Iowa Population Analysis
-<img title="Iowa Population Distribution" alt="Iowa Population" src="/images/iowa2.png">
+<a href="/rafi.io/images/iowa2.png" target="_blank">
+  <img title="Iowa Population Distribution" alt="Iowa Population" src="/rafi.io/images/iowa2.png">
+</a>
 
 **Analysis:** Demographic patterns and population distribution in Iowa state.
 
 ## 11. Pankow Buildings Analysis
-<img title="Pankow Building Footprints" alt="Pankow Buildings" src="/images/pankow_buildings.png">
+<a href="/rafi.io/images/pankow_buildings.png" target="_blank">
+  <img title="Pankow Building Footprints" alt="Pankow Buildings" src="/rafi.io/images/pankow_buildings.png">
+</a>
 
 **Analysis:** Building footprints and urban structure analysis in Pankow district.
 
 ## 12. River Network Analysis
-<img title="River Network System" alt="Rivers" src="/images/Rivers.png">
+<a href="/rafi.io/images/Rivers.png" target="_blank">
+  <img title="River Network System" alt="Rivers" src="/rafi.io/images/Rivers.png">
+</a>
 
 **Analysis:** Hydrological network and watershed patterns.
 
 ## 13. Road Network Analysis
-<img title="Road Network Infrastructure" alt="Roads" src="/images/roads.png">
+<a href="/rafi.io/images/roads.png" target="_blank">
+  <img title="Road Network Infrastructure" alt="Roads" src="/rafi.io/images/roads.png">
+</a>
 
 **Analysis:** Transportation infrastructure and road network connectivity.
 
 ## 14. Satellite Imagery Analysis
-<img title="Satellite Data Analysis" alt="Satellite Data" src="/images/snap2024-10-26-11-24-56.png">
+<a href="/rafi.io/images/snap2024-10-26-11-24-56.png" target="_blank">
+  <img title="Satellite Data Analysis" alt="Satellite Data" src="/rafi.io/images/snap2024-10-26-11-24-56.png">
+</a>
 
 **Analysis:** Remote sensing data analysis and land cover classification.
 
 ## 15. Flood Risk Assessment
-<img title="Sylhet Flood Analysis" alt="Flood Analysis" src="/images/sylhetfloodjune.png">
+<a href="/rafi.io/images/sylhetfloodjune.png" target="_blank">
+  <img title="Sylhet Flood Analysis" alt="Flood Analysis" src="/rafi.io/images/sylhetfloodjune.png">
+</a>
 
 **Analysis:** Flood extent mapping and risk assessment for Sylhet region.
 
 ## 16. Animation Output
-<img title="Temporal Process Animation" alt="Process Animation" src="/images/output.gif">
+<a href="/rafi.io/images/output.gif" target="_blank">
+  <img title="Temporal Process Animation" alt="Process Animation" src="/rafi.io/images/output.gif">
+</a>
 
 **Analysis:** Temporal changes and dynamic visualization of spatial processes.
