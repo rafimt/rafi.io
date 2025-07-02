@@ -26,6 +26,7 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C5282?style=for-the-badge&logo=esri&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
+- **QGIS** **PostGIS** **ArcGIS** **Google Earth Engine**
 
 **QGIS Expertise:** Data Management, Coordinate Reference Systems, Map Creation and Cartography, Spatial Joins and Relationships, Plugin Usage, Database Connectivity, Processing Modeler, Python Scripting and Workflow Automation
 
