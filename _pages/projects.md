@@ -16,7 +16,7 @@ This project provides a complete framework for analyzing wildfire data with focu
 
 **Tools Used:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
 **Output:** Statistical analysis reports  
-**GitHub:** [View Repository](https://github.com/ rafimt/ Wildfire_Analysis_2022 )
+**GitHub:** [View Repository](https://github.com/rafimt/Wildfire_Analysis_2022)
 
 ---
 
