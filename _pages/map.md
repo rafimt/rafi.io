@@ -13,14 +13,18 @@ redirect_from:
 <!-- <img src="/images/LST2024.png" title="Land Surface Temperature 2024" alt="LST 2024 Analysis" style="float: left; margin-right: 10px;" />
 ![screenshot](/images/LST2024.png){: .align-right width="100px"} -->
 
-<a href="/images/LST2024.png" target="_blank">
+<a href="/rafi.io/images/LST2024.png" target="_blank">
   <img title="Land Surface Temperature 2024" alt="LST 2024 Analysis" src="/rafi.io/images/LST2024.png">
 </a>
 
 **Analysis:** Urban heat island patterns and temperature variations across the study area.
 
 ## 2. NDVI Analysis
-<img title="NDVI Analysis 2024" alt="NDVI 2024" src="/rafi.io/images/2024_ndvi.png">
+<!-- <img title="NDVI Analysis 2024" alt="NDVI 2024" src="/rafi.io/images/2024_ndvi.png"> -->
+
+<a href="/rafi.io/images/2024_ndvi.png" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; margin-top: 10px;">
+  Open Interactive Map →
+</a>
 
 **Analysis:** Normalized Difference Vegetation Index showing vegetation health and density patterns.
 
