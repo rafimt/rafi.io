@@ -13,8 +13,8 @@ redirect_from:
 <!-- <img src="/images/LST2024.png" title="Land Surface Temperature 2024" alt="LST 2024 Analysis" style="float: left; margin-right: 10px;" />
 ![screenshot](/images/LST2024.png){: .align-right width="100px"} -->
 
-<a href="/files/LST2024.png" target="_blank">
-  <img title="Land Surface Temperature 2024" alt="LST 2024 Analysis" src="/files/LST2024.png">
+<a href="/images/LST2024.png" target="_blank">
+  <img title="Land Surface Temperature 2024" alt="LST 2024 Analysis" src="/images/LST2024.png">
 </a>
 
 **Analysis:** Urban heat island patterns and temperature variations across the study area.
