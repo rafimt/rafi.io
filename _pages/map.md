@@ -10,7 +10,7 @@ redirect_from:
 # Interactive Maps Portfolio
 
 ## 1. Land Surface Temperature Analysis
-<img title="Land Surface Temperature 2024" alt="LST 2024 Analysis" src="/images/LST2024.png">
+<img title="Land Surface Temperature 2024" alt="LST 2024 Analysis" src="C:\RMTPROJECTS\portfolio\rafi.io\images\LST2024.png">
 
 **Analysis:** Urban heat island patterns and temperature variations across the study area.
 
