@@ -7,7 +7,7 @@ redirect_from:
   - /projects.html
 ---
 
-{% include toc %}
+<!-- {% include toc %} -->
 
 ## Locations of key files/directories
 
