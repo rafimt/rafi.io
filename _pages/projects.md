@@ -27,14 +27,15 @@ This project analyzes deforestation patterns in the Llanos del Yari-Yaguara II I
 
 **Tools Used:** QGIS, Google Earth Engine, geemap, matplotlib/seaborn, numpy, QGIS, Jupyter Notebooks 
 **Output:** Deforestation maps, temporal analysis, Before-after comparison, Seasonal variation and land cover change  
-**GitHub:** [View Repository](https://rafimt/Deforestation-Analysis)
+**GitHub:** [View Repository](https://github.com/rafimt/Deforestation-Analysis)
 
-### Cycling Infrastructure Assessment
+### Cycling Coverage Assessment
 Spatial analysis of cycling network accessibility in Berlin, identifying gaps between high population density areas and cycling infrastructure coverage.
 
-**Tools Used:** QPython, GeoPandas, Matplotlib, Contextily, Buffer Analysis  
+**Tools Used:** Python, GeoPandas, Matplotlib, Contextily, Buffer Analysis  
 **Output:** Population density maps, accessibility gap identification, and cycling coverage analysis  
 **GitHub:** [View Repository](https://github.com/rafimt/Maps/blob/main/notebook/cycling map.ipynb)
+
 
 ---
 
