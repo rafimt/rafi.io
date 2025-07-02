@@ -14,7 +14,7 @@ redirect_from:
 ![screenshot](/images/LST2024.png){: .align-right width="100px"} -->
 
 <a href="/images/LST2024.png" target="_blank">
-  <img title="Land Surface Temperature 2024" alt="LST 2024 Analysis" src="/images/LST2024.png">
+  <img title="Land Surface Temperature 2024" alt="LST 2024 Analysis" src="/rafi.io/images/LST2024.png">
 </a>
 
 **Analysis:** Urban heat island patterns and temperature variations across the study area.
