@@ -12,10 +12,11 @@ redirect_from:
 ## Data Science / Machine Learning
 
 ### Wildfire Analysis
-Predictive modeling and risk assessment for wildfire occurrence and spread patterns using historical data and environmental factors.
+This project provides a complete framework for analyzing wildfire data with focus on temporal patterns, geographical distributions, fire size analysis, and correlations between various wildfire characteristics. The analysis is specifically designed for 2022 wildfire data but can be adapted for multi-year datasets.
 
 **Tools Used:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
-**Output:** Predictive models, risk maps, and statistical analysis reports
+**Output:** Statistical analysis reports  
+**GitHub:** [View Repository](https://github.com/ rafimt/ Wildfire_Analysis_2022 )
 
 ---
 
@@ -25,19 +26,22 @@ Predictive modeling and risk assessment for wildfire occurrence and spread patte
 Satellite imagery analysis to track and quantify deforestation patterns over time in critical forest regions.
 
 **Tools Used:** QGIS, ArcGIS, Google Earth Engine, Remote Sensing techniques  
-**Output:** Deforestation maps, temporal analysis, and conservation recommendations
+**Output:** Deforestation maps, temporal analysis, and conservation recommendations  
+**GitHub:** [View Repository](https://github.com/yourusername/deforestation-monitoring)
 
 ### Hospital Accessibility Analysis
 Spatial analysis of healthcare facility distribution and accessibility patterns across urban and rural areas.
 
 **Tools Used:** ArcGIS, PostGIS, Network Analysis, Buffer Analysis  
-**Output:** Accessibility maps, service area analysis, and policy recommendations
+**Output:** Accessibility maps, service area analysis, and policy recommendations  
+**GitHub:** [View Repository](https://github.com/yourusername/hospital-accessibility-gis)
 
 ### Cycling Infrastructure Assessment
 Comprehensive mapping and analysis of bicycle facility networks and their connectivity patterns.
 
 **Tools Used:** QGIS, OpenStreetMap data, Network Analysis, GPS tracking  
-**Output:** Cycling network maps, connectivity analysis, and infrastructure gap identification
+**Output:** Cycling network maps, connectivity analysis, and infrastructure gap identification  
+**GitHub:** [View Repository](https://github.com/yourusername/cycling-infrastructure-analysis)
 
 ---
 
