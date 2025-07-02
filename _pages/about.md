@@ -71,7 +71,8 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Git**,  **Jupyter**,  **PostgreSQL**,  **Excel**
+- **Git**,  **Jupyter**,  **PostgreSQL**,  **Excel**
+
 ---
 
 ## 🔬 Research & Publications
