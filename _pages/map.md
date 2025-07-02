@@ -15,21 +15,21 @@ author_profile: true
 
 # Interactive Maps Portfolio
 
-## 1. Land Surface Temperature Analysis
+## 1. Land Surface Temperature Analysis of Berlin
 <a href="/rafi.io/images/LST2024.png" target="_blank">
   <img title="Land Surface Temperature 2024" alt="LST 2024 Analysis" src="/rafi.io/images/LST2024.png">
 </a>
 
 **Analysis:** Urban heat island patterns and temperature variations across the study area.
 
-## 2. NDVI Analysis
+## 2. NDVI Analysis of Berlin
 <a href="/rafi.io/images/2024_ndvi.png" target="_blank">
   <img title="NDVI Analysis 2024" alt="NDVI 2024" src="/rafi.io/images/2024_ndvi.png">
 </a>
 
 **Analysis:** Normalized Difference Vegetation Index showing vegetation health and density patterns.
 
-## 3. NDBI Analysis
+## 3. NDBI Analysis of Berlin
 <a href="/rafi.io/images/2024_ndbi.png" target="_blank">
   <img title="NDBI Analysis 2024" alt="NDBI 2024" src="/rafi.io/images/2024_ndbi.png">
 </a>
@@ -43,8 +43,8 @@ author_profile: true
 
 **Analysis:** Population density distribution across Berlin districts.
 
-### Interactive Population Map
-<iframe src="/rafi.io/images/Berlin_Population_2022.html" width="100%" height="600" frameborder="0"></iframe>
+<!-- ### Interactive Population Map
+<iframe src="/rafi.io/images/Berlin_Population_2022.html" width="100%" height="600" frameborder="0"></iframe> -->
 
 ## 5. Berlin Cycling Network Analysis
 <a href="/rafi.io/images/Berlin_cycling_network_&_pop.png" target="_blank">
@@ -67,26 +67,26 @@ author_profile: true
 
 **Analysis:** Global continental boundaries and geographical features.
 
-## 8. Dot Density Visualization
+## 8. Dot Density Visualization of New York
 <a href="/rafi.io/images/dotdensity1.png" target="_blank">
   <img title="Dot Density Population Map" alt="Dot Density" src="/rafi.io/images/dotdensity1.png">
 </a>
 
 **Analysis:** Population distribution using dot density mapping technique.
 
-## 9. Hospital Accessibility Analysis
+## 9. Hospital Accessibility Analysis of Berlin
 <a href="/rafi.io/images/HOSPITAL2.png" target="_blank">
   <img title="Hospital Coverage Analysis" alt="Hospital Coverage" src="/rafi.io/images/HOSPITAL2.png">
 </a>
 
 **Analysis:** Healthcare facility distribution and service area coverage.
 
-## 10. Iowa Population Analysis
+## 10. Relative Elevation Model of Iowa
 <a href="/rafi.io/images/iowa2.png" target="_blank">
   <img title="Iowa Population Distribution" alt="Iowa Population" src="/rafi.io/images/iowa2.png">
 </a>
 
-**Analysis:** Demographic patterns and population distribution in Iowa state.
+**Analysis:** REMs provide insights that aren't easily visible in standard DEMs or aerial photos.
 
 ## 11. Pankow Buildings Analysis
 <a href="/rafi.io/images/pankow_buildings.png" target="_blank">
@@ -102,28 +102,28 @@ author_profile: true
 
 **Analysis:** Hydrological network and watershed patterns.
 
-## 13. Road Network Analysis
+## 13. Road Network Analysis of Big Cities
 <a href="/rafi.io/images/roads.png" target="_blank">
   <img title="Road Network Infrastructure" alt="Roads" src="/rafi.io/images/roads.png">
 </a>
 
-**Analysis:** Transportation infrastructure and road network connectivity.
+**Analysis:** Transportation infrastructure and road network connectivity from OSM.
 
-## 14. Satellite Imagery Analysis
+## 14. Exploring Bangladesh's Population Density in 3D
 <a href="/rafi.io/images/snap2024-10-26-11-24-56.png" target="_blank">
   <img title="Satellite Data Analysis" alt="Satellite Data" src="/rafi.io/images/snap2024-10-26-11-24-56.png">
 </a>
 
-**Analysis:** Remote sensing data analysis and land cover classification.
+**Analysis:** The visualization reveals two clear giants in our urban landscape - Dhaka and Chattogram.
 
-## 15. Flood Risk Assessment
+## 15. Flood Map of Sylhet
 <a href="/rafi.io/images/sylhetfloodjune.png" target="_blank">
   <img title="Sylhet Flood Analysis" alt="Flood Analysis" src="/rafi.io/images/sylhetfloodjune.png">
 </a>
 
 **Analysis:** Flood extent mapping and risk assessment for Sylhet region.
 
-## 16. Animation Output
+## 16. Night Light of Bangladesh
 <a href="/rafi.io/images/output.gif" target="_blank">
   <img title="Temporal Process Animation" alt="Process Animation" src="/rafi.io/images/output.gif">
 </a>
