@@ -6,15 +6,6 @@ redirect_from:
   - /md/
   - /map.html
 ---
-
----
-permalink: /maps/
-title: "Maps"
-author_profile: true
----
-
-# Interactive Maps Portfolio
-
 ## 1. Land Surface Temperature Analysis of Berlin
 <a href="/rafi.io/images/LST2024.png" target="_blank">
   <img title="Land Surface Temperature 2024" alt="LST 2024 Analysis" src="/rafi.io/images/LST2024.png">
