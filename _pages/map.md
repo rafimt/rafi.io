@@ -11,7 +11,7 @@ redirect_from:
 
 ## 1. Land Surface Temperature Analysis
 <!-- ><img src="C:\RMTPROJECTS\portfolio\rafi.io\images\LST2024.png" title="Land Surface Temperature 2024" alt="LST 2024 Analysis" width="400"> -->
-![screenshot](\images\LST2024.png)
+![screenshot](\images\LST2024.png){: .align-right width="100px"}
 
 **Analysis:** Urban heat island patterns and temperature variations across the study area.
 
