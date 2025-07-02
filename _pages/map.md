@@ -20,7 +20,7 @@ redirect_from:
 **Analysis:** Urban heat island patterns and temperature variations across the study area.
 
 ## 2. NDVI Analysis
-<img title="NDVI Analysis 2024" alt="NDVI 2024" src="/images/2024_ndvi.png">
+<img title="NDVI Analysis 2024" alt="NDVI 2024" src="/rafi.io/images/2024_ndvi.png">
 
 **Analysis:** Normalized Difference Vegetation Index showing vegetation health and density patterns.
 
