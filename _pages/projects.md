@@ -30,7 +30,7 @@ This project analyzes deforestation patterns in the Llanos del Yari-Yaguara II I
 ### Cycling Coverage Assessment
 Spatial analysis of cycling network accessibility in Berlin, identifying gaps between high population density areas and cycling infrastructure coverage.
 
-**Tools Used:** Python, GeoPandas, Matplotlib, Contextily, Buffer Analysis  
+**Tools Used:** Python, GeoPandas, Matplotlib, Contextily
 **Output:** Population density maps, accessibility gap identification, and cycling coverage analysis  
 **GitHub:** [View Repository](https://github.com/rafimt/Maps/blob/main/notebook/continent.ipynb)
 
