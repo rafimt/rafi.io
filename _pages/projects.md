@@ -23,7 +23,7 @@ This project provides a complete framework for analyzing wildfire data with focu
 ### Deforestation Monitoring
 This project analyzes deforestation patterns in the Llanos del Yari-Yaguara II Indigenous Reserve in Colombia over a 10-year period (2016-2025) using satellite imagery and vegetation indices. The study focuses on understanding vegetation changes and identifying deforestation patterns to support informed decision-making in forest management.
 
-**Tools Used:** QGIS, Google Earth Engine, geemap, matplotlib/seaborn, numpy, QGIS, Jupyter Notebooks  
+**Tools Used:** QGIS, Google Earth Engine, matplotlib/seaborn, numpy, QGIS, Jupyter Notebooks  
 **Output:** Deforestation maps, temporal analysis, before-after comparison, seasonal variation and land cover change  
 **GitHub:** [View Repository](https://github.com/rafimt/Deforestation-Analysis)
 
