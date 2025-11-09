@@ -16,14 +16,14 @@ redirect_from:
 
 ## Dhaka District
 <a href="/rafi.io/images/Dhaka_District.png" target="_blank">
-  <img title="Dhaka District" alt="Dhaka" src="/rafi.io/images/Dhaka_District">
+  <img title="Dhaka District" alt="Dhaka" src="/rafi.io/images/Dhaka_District.png">
 </a>
 
 **Analysis:** Road network density visualization of Dhaka District showcasing the stark urban-rural divide between the densely populated metropolitan core and peripheral rural areas. 
 
 ## Coffee Shops in Mitte, Berlin, Germany
 <a href="/rafi.io/images/coffee_shops_map.png" target="_blank">
-  <img title="Coffee Shops in Mitte, Berlin, Germany" alt="Coffee Shop" src="/rafi.io/images/coffee_shops_map">
+  <img title="Coffee Shops in Mitte, Berlin, Germany" alt="Coffee Shop" src="/rafi.io/images/coffee_shops_map.png">
 </a>
 
 **Analysis:** Spatial distribution of 544 coffee shops across Berlin's Mitte district, revealing high-density clustering in central neighborhoods and commercial corridors. 
