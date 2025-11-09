@@ -6,6 +6,14 @@ redirect_from:
   - /md/
   - /map.html
 ---
+
+## 1. Berlin Street Network Visualization
+<a href="/rafi.io/images/berlin_neon_map.png" target="_blank">
+  <img title="Berlin Street Network Visualization" alt="LST 2024 Analysis" src="/rafi.io/images/berlin_neon_map.png">
+</a>
+
+**Analysis:** Hierarchical street network classification showcasing Berlin's transportation infrastructure through neon-styled cartography.
+
 ## 1. Land Surface Temperature Analysis of Berlin
 <a href="/rafi.io/images/LST2024.png" target="_blank">
   <img title="Land Surface Temperature 2024" alt="LST 2024 Analysis" src="/rafi.io/images/LST2024.png">
