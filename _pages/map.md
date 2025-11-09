@@ -15,8 +15,8 @@ redirect_from:
 **Analysis:** Choropleth visualization of global carbon dioxide emissions by country of 10 years, classified into five categories from very low to very high emissions. 
 
 ## Dhaka District
-<a href="/rafi.io/images/Dhaka District.png" target="_blank">
-  <img title="Dhaka District" alt="Dhaka" src="/rafi.io/images/Dhaka District">
+<a href="/rafi.io/images/Dhaka_District.png" target="_blank">
+  <img title="Dhaka District" alt="Dhaka" src="/rafi.io/images/Dhaka_District">
 </a>
 
 **Analysis:** Road network density visualization of Dhaka District showcasing the stark urban-rural divide between the densely populated metropolitan core and peripheral rural areas. 
