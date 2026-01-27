@@ -27,8 +27,13 @@
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
-      {% if author.employer %}
+      <!-- {% if author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+      {% endif %} -->
+      {% if author.employer %}
+      <li class="author__desktop">
+      <img src="{{ '/images/DLR logo.jpg' | prepend: base_path }}" alt="" class="icon-pad-right" style="width: 1em; height: 1em; vertical-align: middle;" aria-hidden="true" />{{ author.employer }}
+      </li>
       {% endif %}
       {% if author.education %}
         <li class="author__desktop"><i class="fas fa-fw fa-user-graduate icon-pad-right" aria-hidden="true"></i>{{ author.education }}</li>
