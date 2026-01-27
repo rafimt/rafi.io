@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoinformation Science** at Technical University Berlin, with a passion for leveraging spatial analysis and machine learning to solve real-world problems. Currently working as a Strategic Area Development specialist at OXG Glasfaser GmbH, where I optimize fiber network deployment through advanced GIS analysis and Python automation.
+I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoinformation Science** at Technical University Berlin, with a passion for leveraging spatial analysis and machine learning to solve real-world problems. Currently working as a Student Assistant at the German Aerospace Center (DLR), where I'm applying machine learning methods with multimodal geodata in urban areas.
 
 - 🌍 **Expertise**: GIS, Remote Sensing, Spatial Analysis, Python Programming
 - 🔭 **Current Focus**: Geographical Data Science
@@ -18,7 +18,6 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 - 💼 **Industry Experience**: Telecommunications Infrastructure, Urban Planning, Transportation Analysis
 
 ---
-
 ## 🛠️ Tech Stack & Skills
 
 ### **Core Geospatial Technologies**
