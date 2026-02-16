@@ -88,8 +88,8 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 
 ## 💼 Professional Experience
 
-### **Current Role: Student Assistant**
-**DLR (German Aerospace Center)** | *January 2026 - Present*
+### **Current Role**
+**Student Assistant | DLR (German Aerospace Center)** | *January 2026 - Present*
 
 - 🤖 Developing machine learning applications with multimodal geodata in urban areas
 - 🌳 Focusing on automated tree vitality assessment using aerial stereo imagery
@@ -97,16 +97,15 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 
 ### **Previous Experience**
 
-- **Working Student - Strategic Area Development**
-  - **OXG Glasfaser GmbH** | *June 2024 - December 2025*
+**Working Student - Strategic Area Development** | **OXG Glasfaser GmbH** | *June 2024 - December 2025*
   - 🗺️ Performed comprehensive geographical data analysis using QGIS for optical fiber network deployment
   - 🐍 Developed automated Python models resulting in 20% improvement in operational efficiency
   - 🎯 Conducted geospatial assessments and database quality assurance
 
-- **GIS and Geospatial Planner**
+**GIS and Geospatial Planner**
   - Department of Civil Engineering, RUET
 
-- **Urban Planning Intern**
+**Urban Planning Intern**
   - Urban Development Directorate, Bangladesh
 
 ---
