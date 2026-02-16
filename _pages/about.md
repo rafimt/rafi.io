@@ -98,7 +98,7 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 ### **Previous Experience**
 
 - **Working Student - Strategic Area Development**
-  - OXG Glasfaser GmbH | *June 2024 - December 2025*
+  - **OXG Glasfaser GmbH** | *June 2024 - December 2025*
   - 🗺️ Performed comprehensive geographical data analysis using QGIS for optical fiber network deployment
   - 🐍 Developed automated Python models resulting in 20% improvement in operational efficiency
   - 🎯 Conducted geospatial assessments and database quality assurance
