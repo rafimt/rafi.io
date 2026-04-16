@@ -56,13 +56,13 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 
 **ML/DL Specialization:** Supervised and Unsupervised Learning, Neural Network Fundamentals, Model Evaluation and Validation, Classification and Object Detection, CNN, Vision Transformer, Graph Neural Network
 
-### **Web Development & Visualization**
+<!-- ### **Web Development & Visualization**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Django**,  **Leaflet**,  **HTML**,  **CSS**
+- **Django**,  **Leaflet**,  **HTML**,  **CSS** -->
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -112,8 +112,7 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 
 ## 🎯 Current Learning & Goals
 
-- **WebGIS Development**: Interactive web-based geospatial applications and mapping solutions
-- **Vision Transformers**: Advanced computer vision techniques for geospatial data analysis
+- **Data Engineering**: Building scalable data pipelines and ETL workflows for geospatial data
+- **MLOps**: Deploying, monitoring, and managing machine learning models in production
 - **Database Management**: Optimization and administration of spatial databases
 - **Workflow Automation**: Developing scripts to streamline geospatial processes
-- **JavaScript**: Frontend development for interactive mapping and data visualization
