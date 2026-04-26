@@ -9,12 +9,20 @@ redirect_from:
 
 ## Data Science / Machine Learning
 
+### End-to-End Geospatial Data Pipeline
+A reproducible data engineering pipeline built to learn PostGIS and Docker hands-on. Uses Denver, Colorado as the study area, ingesting real-world data from USGS, OpenStreetMap, and Google Earth Engine, then processing and loading it into a PostGIS spatial database with fully automated Python scripts.
+
+**Tools Used:** Python, PostgreSQL, PostGIS, Docker, GDAL, GeoPandas, PDAL, Google Earth Engine, Folium, osmnx  
+**Output:** Spatial database with road buffers, building height extraction, cluster analysis, land suitability scores, and an interactive Folium map  
+**GitHub:** [View Repository](https://github.com/rafimt/geospatial-data-pipeline)
+
 ### Wildfire Analysis
 This project provides a complete framework for analyzing wildfire data with focus on temporal patterns, geographical distributions, fire size analysis, and correlations between various wildfire characteristics. The analysis is specifically designed for 2022 wildfire data but can be adapted for multi-year datasets.
 
 **Tools Used:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
 **Output:** Statistical analysis reports  
 **GitHub:** [View Repository](https://github.com/rafimt/Wildfire_Analysis_2022)
+
 
 ---
 
