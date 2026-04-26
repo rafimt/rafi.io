@@ -23,7 +23,6 @@ This project provides a complete framework for analyzing wildfire data with focu
 **Output:** Statistical analysis reports  
 **GitHub:** [View Repository](https://github.com/rafimt/Wildfire_Analysis_2022)
 
-
 ---
 
 ## Geographic Information Systems (GIS)
