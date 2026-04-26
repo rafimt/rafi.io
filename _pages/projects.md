@@ -16,6 +16,13 @@ A reproducible data engineering pipeline built to learn PostGIS and Docker hands
 **Output:** Spatial database with road buffers, building height extraction, cluster analysis, land suitability scores, and an interactive Folium map  
 **GitHub:** [View Repository](https://github.com/rafimt/geospatial-data-pipeline)
 
+### Energy Timeseries EDA
+Exploratory data analysis and feature engineering for household appliance energy consumption forecasting. Based on the UCI Appliances Energy Prediction dataset — 10-minute interval sensor readings from a low-energy building, resampled to hourly and enriched with lag and cyclical time features.
+
+**Tools Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebooks  
+**Output:** Processed feature set with chronological train/val/test splits, fitted scalers, and EDA visualizations covering seasonality, occupancy proxies, and autocorrelation patterns  
+**GitHub:** [View Repository](https://github.com/rafimt/energy-timeseries-eda)
+
 ### Wildfire Analysis
 This project provides a complete framework for analyzing wildfire data with focus on temporal patterns, geographical distributions, fire size analysis, and correlations between various wildfire characteristics. The analysis is specifically designed for 2022 wildfire data but can be adapted for multi-year datasets.
 
