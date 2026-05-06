@@ -9,6 +9,14 @@ redirect_from:
 
 ## Data Science / Machine Learning
 
+### Weather Analytics Dashboard
+An end-to-end data engineering project that fetches historical weather data for 24 global megacities, stores it in a cloud PostgreSQL database (Supabase), and visualizes it in an interactive multi-page dashboard. The pipeline runs daily via GitHub Actions CI/CD.
+
+**Tools Used:** Python, PostgreSQL, Supabase, Streamlit, Plotly, pandas, GitHub Actions, pytest, Docker  
+**Output:** Live dashboard with temperature trends, monthly heatmaps, year-over-year comparisons, and anomaly detection via z-score  
+**Live App:** [weather-analytics-dashboard-rafi.streamlit.app](https://weather-analytics-dashboard-rafi.streamlit.app)  
+**GitHub:** [View Repository](https://github.com/rafimt/weather-analytics-dashboard)
+
 ### End-to-End Geospatial Data Pipeline
 A reproducible data engineering pipeline built to learn PostGIS and Docker hands-on. Uses Denver, Colorado as the study area, ingesting real-world data from USGS, OpenStreetMap, and Google Earth Engine, then processing and loading it into a PostGIS spatial database with fully automated Python scripts.
 
