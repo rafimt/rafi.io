@@ -16,6 +16,13 @@ A deep learning image classifier that recognizes 139 crop and plant species usin
 **Output:** 139-class classifier with top-1/top-5 accuracy, per-class classification report, confusion matrix, and a Streamlit app returning top-K predictions with confidence scores  
 **GitHub:** [View Repository](https://github.com/rafimt/crop_classification)
 
+### Crop Disease Detection
+A deep learning classifier that identifies 26 crop diseases across corn, potato, rice, and wheat from leaf images, using transfer learning on a ResNet18 backbone. A stratified 70/15/15 split is built from the raw dataset, the model is trained in two phases (frozen head, then full fine-tuning) on GPU, and predictions are served through a FastAPI web service with an upload page and JSON API.
+
+**Tools Used:** Python, PyTorch, PyTorch Lightning, torchvision, TensorBoard, scikit-learn, FastAPI, Uvicorn  
+**Output:** 26-class disease classifier reaching ~77% test accuracy, with a per-class report, confusion matrix, and a FastAPI `/predict` endpoint returning top-K predictions with confidence scores  
+**GitHub:** [View Repository](https://github.com/rafimt/crop-diseases-detection)
+
 ### Weather Analytics Dashboard
 An end-to-end data engineering project that fetches historical weather data for 24 global megacities, stores it in a cloud PostgreSQL database (Supabase), and visualizes it in an interactive multi-page dashboard. The pipeline runs daily via GitHub Actions CI/CD.
 
