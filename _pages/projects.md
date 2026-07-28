@@ -9,6 +9,13 @@ redirect_from:
 
 ## Data Science / Machine Learning
 
+### Crop & Plant Image Classifier
+A deep learning image classifier that recognizes 139 crop and plant species using transfer learning on a MobileNetV2 backbone. A two-phase training strategy (frozen head, then full fine-tuning) is trained on GPU with mixed precision, and the trained model is served through an interactive Streamlit web app for drag-and-drop classification.
+
+**Tools Used:** Python, PyTorch, PyTorch Lightning, torchvision, TensorBoard, scikit-learn, Streamlit  
+**Output:** 139-class classifier with top-1/top-5 accuracy, per-class classification report, confusion matrix, and a Streamlit app returning top-K predictions with confidence scores  
+**GitHub:** [View Repository](https://github.com/rafimt/crop_classification)
+
 ### Weather Analytics Dashboard
 An end-to-end data engineering project that fetches historical weather data for 24 global megacities, stores it in a cloud PostgreSQL database (Supabase), and visualizes it in an interactive multi-page dashboard. The pipeline runs daily via GitHub Actions CI/CD.
 
