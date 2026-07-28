@@ -20,7 +20,7 @@ A deep learning image classifier that recognizes 139 crop and plant species usin
 A deep learning classifier that identifies 26 crop diseases across corn, potato, rice, and wheat from leaf images, using transfer learning on a ResNet18 backbone. A stratified 70/15/15 split is built from the raw dataset, the model is trained in two phases (frozen head, then full fine-tuning) on GPU, and predictions are served through a FastAPI web service with an upload page and JSON API.
 
 **Tools Used:** Python, PyTorch, PyTorch Lightning, torchvision, TensorBoard, scikit-learn, FastAPI, Uvicorn  
-**Output:** 26-class disease classifier reaching ~77% test accuracy, with a per-class report, confusion matrix, and a FastAPI `/predict` endpoint returning top-K predictions with confidence scores  
+**Output:** 26-class disease classifier reaching ~77% test accuracy, with a per-class report, confusion matrix, and a web API returning top-K predictions with confidence scores  
 **GitHub:** [View Repository](https://github.com/rafimt/crop-diseases-detection)
 
 ### Weather Analytics Dashboard
