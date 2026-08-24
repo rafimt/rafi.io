@@ -45,6 +45,27 @@ Exploratory data analysis and feature engineering for household appliance energy
 **Output:** Processed feature set with chronological train/val/test splits, fitted scalers, and EDA visualizations covering seasonality, occupancy proxies, and autocorrelation patterns  
 **GitHub:** [View Repository](https://github.com/rafimt/energy-timeseries-eda)
 
+### Credit Risk Prediction
+A supervised machine learning project predicting whether loan borrowers will become seriously delinquent (90+ days overdue) within two years, using Kaggle's "Give Me Some Credit" dataset of 150,000 borrowers. Emphasizes model explainability with SHAP, essential for regulated lending environments that must justify risk decisions.
+
+**Tools Used:** Python, scikit-learn, XGBoost, Random Forest, SHAP, pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks  
+**Output:** XGBoost model achieving 0.862 ROC-AUC, SHAP-based feature importance and waterfall plots, and the finding that payment behavior outpredicts demographics  
+**GitHub:** [View Repository](https://github.com/rafimt/credit-risk)
+
+### Customer Segmentation
+An unsupervised machine learning project segmenting ~8,950 credit card customers into behavioral personas using K-Means clustering, with optimal cluster count selected via elbow method and silhouette scores, and PCA used for visualization.
+
+**Tools Used:** Python, scikit-learn, pandas, Matplotlib, Seaborn, Jupyter Notebooks  
+**Output:** Four actionable customer segments (high-value, cash-advance users, installment purchasers, low-activity accounts) with seven analytical visualizations to guide marketing, retention, and risk strategy  
+**GitHub:** [View Repository](https://github.com/rafimt/customer-segmentation)
+
+### Credit Card Fraud Detection
+An end-to-end fraud detection project tackling extreme class imbalance (fraud is 0.17% of transactions) across 284,807 anonymized European cardholder transactions, with a focus on imbalance-appropriate evaluation metrics and business-driven threshold tuning.
+
+**Tools Used:** Python, XGBoost, scikit-learn, Random Forest, Logistic Regression, Isolation Forest, pandas, Matplotlib, Seaborn, Jupyter Notebooks  
+**Output:** XGBoost model reaching 0.983 ROC-AUC and 0.825 PR-AUC (77% of fraud caught at 93% precision), with 12 supporting visualizations  
+**GitHub:** [View Repository](https://github.com/rafimt/credit-card-fraud-detection)
+
 ### Wildfire Analysis
 This project provides a complete framework for analyzing wildfire data with focus on temporal patterns, geographical distributions, fire size analysis, and correlations between various wildfire characteristics. The analysis is specifically designed for 2022 wildfire data but can be adapted for multi-year datasets.
 
@@ -91,6 +112,13 @@ Interactive web mapping application built using Django's geographic framework fo
 **Tools Used:** Django, GeoDjango, GDAL, Leaflet.js, HTML/CSS  
 **Output:** Responsive web application with interactive mapping capabilities  
 **GitHub:** [View Repository](https://github.com/rafimt/first_geodjango_project)
+
+### BanglaGIS Explorer
+A geospatial web application for exploring Bangladesh's administrative boundaries, letting users view districts on an interactive map, filter them live by population range, and browse summary statistics and charts. District boundaries are sourced from GADM with population data added programmatically.
+
+**Tools Used:** Python, FastAPI, PostgreSQL, PostGIS, SQLAlchemy, GeoAlchemy2, Leaflet.js, Chart.js, Docker Compose  
+**Output:** Interactive web app with multiple basemaps, live population filtering, summary stat tiles, and REST API endpoints serving filtered GeoJSON  
+**GitHub:** [View Repository](https://github.com/rafimt/webgis-bd)
 
 ---
 
