@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoinformation Science** at Technical University Berlin, with a passion for leveraging spatial analysis and machine learning to solve real-world problems. Currently working as a Student Assistant at the German Aerospace Center (DLR), where I'm applying deep learning methods with stereo view aerial images for tree health monitoring.
+I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoinformation Science** at Technical University Berlin, with a passion for leveraging spatial analysis and machine learning to solve real-world problems.
 
 - 🌍 **Expertise**: GIS, Remote Sensing, Spatial Analysis, Python Programming
 - 🔭 **Current Focus**: Geographical Data Science
@@ -88,14 +88,13 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 
 ## 💼 Professional Experience
 
-### **Current Role**
-**Student Assistant | DLR (German Aerospace Center)** | *January 2026 - Present*
-
-- 🤖 Developing a deep learning fusion model for urban tree health monitoring using stereo imagery
-- 🌳 Evaluating and comparing encoder architectures and fusion strategies to determine optimal configuration
-- 🔬 Conducting data quality checks and geospatial validation using QGIS and Python to ensure dataset integrity
-
 ### **Previous Experience**
+
+**Student Assistant | DLR (German Aerospace Center)** | *January 2026 - July 2026*
+
+- 🤖 Developed a deep learning fusion model for urban tree health monitoring using stereo imagery
+- 🌳 Evaluated and compared encoder architectures and fusion strategies to determine optimal configuration
+- 🔬 Conducted data quality checks and geospatial validation using QGIS and Python to ensure dataset integrity
 
 **Working Student - Strategic Area Development** | **OXG Glasfaser GmbH** | *June 2024 - December 2025*
   - 🐍 Improved operational efficiency by 20% through automated geospatial analysis using QGIS and Python for fiber network deployment
