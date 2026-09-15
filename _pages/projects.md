@@ -23,6 +23,13 @@ A deep learning classifier that identifies 26 crop diseases across corn, potato,
 **Output:** 26-class disease classifier reaching ~77% test accuracy, with a per-class report, confusion matrix, and a web API returning top-K predictions with confidence scores  
 **GitHub:** [View Repository](https://github.com/rafimt/crop-diseases-detection)
 
+### Crop Yield Prediction from Satellite Time Series
+A temporal deep learning project predicting county-level corn yield (bushels per acre) in Iowa from Sentinel-2 satellite time series across the growing season (2016-2023). It compares a Temporal Convolutional Network with an LSTM and adds weather features to boost accuracy. Yield labels come from the USDA NASS API and county geometries from US Census TIGER shapefiles.
+
+**Tools Used:** Python, PyTorch, PyTorch Lightning, Sentinel Hub Statistical API, USDA NASS API, GeoPandas, NumPy, pandas  
+**Output:** TCN and LSTM yield models with a year-based train/test split. The satellite-plus-weather model reaches RMSE 11.7 bu/acre and R² 0.57, up from R² 0.47 for satellite alone and an 18.7 RMSE mean baseline  
+**GitHub:** [View Repository](https://github.com/rafimt/crop-yield-prediction)
+
 ### Weather Analytics Dashboard
 An end-to-end data engineering project that fetches historical weather data for 24 global megacities, stores it in a cloud PostgreSQL database (Supabase), and visualizes it in an interactive multi-page dashboard. The pipeline runs daily via GitHub Actions CI/CD.
 
