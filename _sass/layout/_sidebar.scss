@@ -135,13 +135,7 @@
 .sidebar .author__desktop {
   display: none;
   @media screen and (min-width: 1024px) {
-    display: flex;
-    align-items: baseline;
-
-    > i,
-    > img {
-      flex: 0 0 auto;
-    }
+    display: block;
   }
 }
 
