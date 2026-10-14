@@ -10,11 +10,11 @@ redirect_from:
 
 
 
-I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoinformation Science** at Technical University Berlin, with a passion for leveraging spatial analysis and machine learning to solve real-world problems.
+I'm a **Geospatial Data Scientist** with an **M.Sc. in Geodesy and Geoinformation Science** from Technical University Berlin. I use spatial analysis and machine learning to solve real-world problems.
 
 - 🌍 **Expertise**: GIS, Remote Sensing, Spatial Analysis, Python Programming
 - 🔭 **Current Focus**: Geographical Data Science
-- 🎓 **Education**: MS Geodesy & Geoinformation Science (TU Berlin), BS Urban & Regional Planning (RUET)
+- 🎓 **Education**: M.Sc. Geodesy & Geoinformation Science (TU Berlin, 2026), B.Sc. Urban & Regional Planning (RUET)
 - 💼 **Industry Experience**: Telecommunications Infrastructure, Urban Planning, Transportation Analysis
 
 ---
@@ -77,6 +77,8 @@ I'm a **Geospatial Data Scientist** and **Master's candidate in Geodesy and Geoi
 ## 🔬 Research & Publications
 
 ### **Recent Research**
+- **"Multi-view Aerial Image Fusion for Urban Tree Vitality Classification Using Deep Learning"** - *Master's Thesis, TU Berlin (2026)*
+  - Fused overlapping aerial stereo views with deep learning to classify individual urban tree vitality
 - **"Application of Remote Sensing and GIS for Vulnerability Assessment"** - *Bachelor's Thesis*
   - Analyzed flood vulnerability using satellite imagery and advanced spatial analysis
 
